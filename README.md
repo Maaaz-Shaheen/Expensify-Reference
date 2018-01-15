@@ -1,0 +1,1 @@
+A simple React boilerplate with allowance for SCSS and all files setup but with a seperate folder structure for both CSS and components.
