@@ -15,15 +15,12 @@ import './styles/styles.css'
 
 import configureStore from './store/configureStore';
 import { addExpense } from './actions/expenses';
-// import { setTextFilter, sortByAmount } from './actions/filters';
+import { setTextFilter, sortByAmount } from './actions/filters';
 import getVisibleExpenses from './selectors/expenses';
 import {Provider} from 'react-redux'; 
 
 // Working
 const store = configureStore(); 
-
-
-
 
 
 const jsx = (
