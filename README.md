@@ -1,1 +1,7 @@
-A simple React boilerplate with allowance for SCSS and all files setup but with a seperate folder structure for both CSS and components.
+Expensify app for future reference.
+
+Git command List - Create a new git repo
+git status - view the changes to your project code
+git add - adds files to staging area
+git commit - creates a new commit with files from staging area
+git log - view recent commits
