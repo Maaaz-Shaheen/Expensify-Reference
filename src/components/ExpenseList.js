@@ -10,9 +10,9 @@ const ExpenseList = (props) => (
     </div>
 );
 
-const mapStateToProps = (state)=>{
+const mapStateToProps = (state) => {
     return {
-        expenses : selectedList(state.expenses, state.filters),
+        expenses: selectedList(state.expenses, state.filters),
     };
 };
 
