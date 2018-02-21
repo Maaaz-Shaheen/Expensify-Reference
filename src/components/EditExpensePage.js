@@ -3,7 +3,6 @@ import ExpenseForm from './ExpenseForm';
 import {connect} from 'react-redux';
 import {startEditExpenses, startRemoveExpense} from '../actions/expenses';
 
-
 const EditExpensePage = (props) => {
     return (
         <div>
